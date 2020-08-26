@@ -1,0 +1,8 @@
+.hide {
+    display: none
+}
+
+.active {
+    color: rgb(221, 141, 141);
+    font-weight: bold;
+}
